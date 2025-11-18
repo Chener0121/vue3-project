@@ -1,4 +1,4 @@
-# vue3-project
+# Learning vue3-project
 
 ## Project Setup
 
